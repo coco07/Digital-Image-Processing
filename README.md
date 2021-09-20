@@ -25,7 +25,7 @@ To change the start and end locations of the pixels, again, change p and q value
 
 > python Pixel_Digital_Path.py
 
-the output will be printed in the same terminal.
+the output will be printed in the same terminal window.
 
 
 -----------------------------------------------------------------
