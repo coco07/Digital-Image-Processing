@@ -53,4 +53,4 @@ Here, As Vf and Vb are optional parameters, if not provided function will still 
 
 this will save the output final_image.jpg into the same location where the program is stored. Please open the saved file to verify the output.
 
-=================================================================================================================================================
+=================================================================
