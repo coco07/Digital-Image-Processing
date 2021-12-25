@@ -62,5 +62,5 @@ How to run the program?
 3. Make input_3 ready-
          a) prepare an array containing the message (for ex. ['a1','a2','a3','a3','a4']) and replace it with the existing array which is stored in variable named message.   
 
-> python DIP-A2-Q2-G10.py  (if want to run in python IDE)
+> python DIP-A2-Q2-G10.py  (if want to run in python IDE) 
 > %run DIP-A2-Q2-G10.py    (if want to run .py in jupyter notebook)     
