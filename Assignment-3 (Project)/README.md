@@ -1,11 +1,11 @@
 We have performed 2 experiments on each FPMW, TPMW, TPOW combinations. We have trained our classifier on TPOW as well, which was not mentioned earlier in experiments section in the paper 
 because of it's poor performance as compared to given two menthods.
 
-*Experiment 1: (compressed images)
+# Experiment 1: (compressed images)
 1) For testing purpose, we have taken 800 compressed images collected with very different resolutions taken from different cameras and smartphones.
 2) The blurred images in the above testing dataset were blurred with different median filtering implementations and different median windows sizes.
 
-*Experiment 2: (compressed + uncompressed images)
+# Experiment 2: (compressed + uncompressed images)
 1) For testing purpose, we have used 1338 uncompressed images from UCID dataset combined with 800 images from Experiment 1.
 
 For each such experiment, we generate confusion matrix and calculate below model performance metrics based on that:
@@ -19,7 +19,7 @@ We also store feature_vector generated into .txt file.
 
 ------------------------------------------------------------------
 
-How to run the project?
+# How to run the project?
 
 1. Dataset- 
 		we will need 2 types of dataset as mentioned in the paper:
