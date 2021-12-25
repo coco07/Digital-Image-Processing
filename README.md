@@ -1,4 +1,4 @@
-# DS601 - Digital_Image_Processing Course Work
+# DS601 - Digital Image Processing (Course Work)
 
 =============================================
 
