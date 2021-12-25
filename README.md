@@ -1,5 +1,5 @@
-# Digital_Image_Processing (DS601, IIT Bhilai)
+# DS601 - Digital_Image_Processing Course Work
 
 =============================================
 
-2021-22-M Semester
+IIT Bhilai, 2021-22-M Semester
