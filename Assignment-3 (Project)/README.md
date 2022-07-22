@@ -1,3 +1,7 @@
+helps us about detecting traces of median filtering in digital images, a problem of big importance in forensics given that filtering can be used to hide traces of image tampering such as re-sampling and light direction. To accomplish this objective, we have used a novel approach based on multiple and multi-scale(different region of interest) progressive perturbations on images able to capture different median filtering traces through using image quality metrics. We have used 8 IQM for each time filter is applied. After getting IQM, we are able to get distinct feature space suitable for proper classification regarding whether or not a given image contains signs of filtering. Experiments using a real-world scenario with compressed and uncompressed images show the effectiveness of our method
+
+==================================================================
+
 We have performed 2 experiments on each FPMW, TPMW, TPOW combinations. We have trained our classifier on TPOW as well, which was not mentioned earlier in experiments section in the paper 
 because of it's poor performance as compared to given two menthods.
 
